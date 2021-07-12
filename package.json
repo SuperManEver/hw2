@@ -1,0 +1,14 @@
+{
+  "name": "hw2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nik Luparev",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "start:dev": "nodemon ./src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
